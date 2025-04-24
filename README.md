@@ -1,10 +1,13 @@
 📝 React Todo List App
 This is a simple yet functional Todo List application built using React. The app allows users to keep track of their daily tasks with essential features like adding, deleting, and marking tasks as done. It also showcases current date and time and ensures task persistence using local storage in the browser.
 
+
 🔗 Live Demo
 Check out the working app here: https://SarthakJain-in.github.io/Todo-List
 
+
 🚀 Features
+
 ✅ Add Todos: Create new todo items with ease.
 
 ❌ Mark as Done: Click to cross off completed tasks.
@@ -19,6 +22,7 @@ Check out the working app here: https://SarthakJain-in.github.io/Todo-List
 
 
 🛠️ Built With
+
 React – Frontend library for building UI
 
 CSS – For basic styling
